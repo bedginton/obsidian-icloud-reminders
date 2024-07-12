@@ -1,5 +1,7 @@
 # vscode
 .vscode 
+.nvmrc
+scripts/loadNvmAndNode.sh
 
 # Intellij
 *.iml
